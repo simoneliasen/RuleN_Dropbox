@@ -1,0 +1,4 @@
+*.jar
+data/
+rules/
+predictions/
